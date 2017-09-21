@@ -54,3 +54,10 @@ Paste it in the "Bot Framework Channel Emulator" and complete the URL with "/api
 Talk to the bot.
 
 ![Bot channel emulator](https://github.com/isabelcabezasm/BotAndLUIS/blob/master/screenshot-simple-sample-bot-with-LUIS.PNG)
+
+If you need more information about the integration of the bot with the LUIS app: 
+
+https://docs.microsoft.com/en-us/azure/cognitive-services/luis/home 
+
+And this tutorial: 
+https://github.com/DanyStinson/BigBotTheory 
